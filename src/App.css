@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: rgb(75, 78, 113);
+  color: aliceblue;
+}
+
+h4 {
+  text-align: center;
+  color: rgb(255, 94, 0);
+}
